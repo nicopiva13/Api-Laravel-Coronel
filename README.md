@@ -12,8 +12,6 @@ API RESTful desarrollada en **Laravel 11** para la gestión de productos, client
 - Laravel 11
 - PHP 8.2
 - MySQL
-- Eloquent ORM
-- Laravel Sanctum (autenticación)
 
 ---
 
